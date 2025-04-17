@@ -7,23 +7,23 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "SUBZERO-MD~g8xXiLCT#oP8Wh0BGbN-E8Q3w4buHCBqx6SI6negLBM5w2qlJpqQ.",
       "required": true,
       "value": ""
     },
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "..",
       "required": false,
       "value": "."
     },
   
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "+94769918004.",
       "required": false,
       "value": "263719646303"
     },
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "nima.",
       "required": false,
       "value": "SUBZERO-MD"
     }
